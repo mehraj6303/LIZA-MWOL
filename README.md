@@ -32,7 +32,7 @@ Project created by <a href="https://github.com/Chunkindepadayali">LIZA MWOL</a> 
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Chunkindepadayali/LIZA-MWOL
+$ git clone 
 $ cd LIZA-MWOL
 $ npm install @adiwajshing/baileys
 $ npm install chalk
